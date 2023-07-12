@@ -19,6 +19,9 @@ social: false  # includes social icons at the bottom of the page
 
 **Research Interest**: Differential Privacy, Synthetic Data Generation, Private Data Analysis
 
-I'm Kuntai Cai, a PhD student at National University of Singapore (NUS). I received my bachelor's degree in computer science and technology from Tsinghua University in 2019. Since then, I have been studying differential privacy and data synthesis under the guidance of Prof. Xiaokui Xiao at NUS.
+I am Kuntai Cai, a PhD candidate at National University of Singapore (NUS), specializing in differential privacy and data synthesis under Prof. Xiaokui Xiao's mentorship. My academic journey began at Tsinghua University where I graduated with a Bachelor's degree in Computer Science and Technology in 2019 before joining NUS.
 
-In June 2021, in collaboration with my supervisor and partners, I won [1st Place](https://drivendata.co/blog/differential-privacy-winners-sprint3/) in the NIST Differential Privacy Temporal Map Challenge. The solution was a slightly modified version of our previous work, [PrivMRF](https://dl.acm.org/doi/abs/10.14778/3476249.3476272). We have open-sourced [the code](https://github.com/caicre/PrivMRF) of PrivMRF, hoping it may serve as a basic building block for privacy protection. Later, in August 2021, I received the Research Achievement Award from the School of Computing, NUS.
+In June 2021, I won [1st Place](https://drivendata.co/blog/differential-privacy-winners-sprint3/) in the NIST Differential Privacy Temporal Map Challenge, alongside my supervisor and collaborators. Our winning solution was a nuanced adaptation of our prior work, [PrivMRF](https://dl.acm.org/doi/abs/10.14778/3476249.3476272). We have open-sourced [the code](https://github.com/caicre/PrivMRF) of PrivMRF, hoping it to become a basic building block in privacy protection. Subsequently, in August 2021, I was honored with the Research Achievement Award from the School of Computing, NUS. In SIGMOD2023, my collaborators and I published the first solution for synthesizing relational data with foreign keys under differential privacy.
+
+I'm still committed to pushing the boundaries of differential privacy and data synthesis. The prospect of making further significant contributions to the safeguarding of privacy fills me with a profound sense of anticipation and enthusiasm.
+
