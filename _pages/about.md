@@ -17,7 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**Research Interest**: Differential Privacy, Synthetic Data Generation, Private Data Analysis
 
 I am Kuntai Cai, a PhD candidate at National University of Singapore (NUS), specializing in differential privacy and data synthesis under Prof. Xiaokui Xiao's mentorship. My academic journey began at Tsinghua University where I graduated with a Bachelor's degree in Computer Science and Technology in 2019 before joining NUS.
 
@@ -25,3 +24,13 @@ In June 2021, I won [1st Place](https://drivendata.co/blog/differential-privacy-
 
 I'm still committed to pushing the boundaries of differential privacy and data synthesis. The prospect of making further significant contributions to the safeguarding of privacy fills me with a profound sense of anticipation and enthusiasm.
 
+**Research Interest**
+
+* Differential Privacy
+* Synthetic Data Generation
+* Private Data Analysis
+
+**Professional Service**
+
+* 2024 Reviewer, IEEE Transactions on Knowledge and Data Engineering
+* 2022 Reviewer, ACM Transactions on Database Systems
