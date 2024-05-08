@@ -24,7 +24,7 @@ In June 2021, I won [1st Place](https://drivendata.co/blog/differential-privacy-
 
 I'm still committed to pushing the boundaries of differential privacy and data synthesis. The prospect of making further significant contributions to the safeguarding of privacy fills me with a profound sense of anticipation and enthusiasm.
 
-**Research Interest**
+**Research Interests**
 
 * Differential Privacy
 * Synthetic Data Generation
