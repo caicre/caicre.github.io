@@ -7,30 +7,29 @@ subtitle: caikt@comp.nus.edu.sg
 profile:
   align: right
   image: caikt.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   address: >
     <p><a href="https://scholar.google.com/citations?user=oCF0x9sAAAAJ">Google Scholar Page </a></p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+news: false
+latest_posts: false
+selected_papers: true
+social: false
 ---
 
+I am Kuntai Cai, a research scientist at TikTok Singapore, with a focus on privacy protection, databases, large language models, and graph neural networks. My academic journey began with a Bachelor's degree in Computer Science and Technology from Tsinghua University, which I earned in 2019. My PhD focuses on differential privacy and data synthesis, conducted under the guidance of Professor Xiaokui Xiao at the National University of Singapore.
 
-I am Kuntai Cai, a PhD candidate at National University of Singapore (NUS), specializing in differential privacy and data synthesis under Prof. Xiaokui Xiao's mentorship. My academic journey began at Tsinghua University where I graduated with a Bachelor's degree in Computer Science and Technology in 2019 before joining NUS.
+In June 2021, my supervisor, collaborators, and I won [1st Place](https://drivendata.co/blog/differential-privacy-winners-sprint3/) in the NIST Differential Privacy Temporal Map Challenge. Our winning solution was an innovative adaptation of our previous work, [PrivMRF](https://dl.acm.org/doi/abs/10.14778/3476249.3476272), which we have open-sourced as a foundational tool for privacy protection. More recently, at SIGMOD 2023, my collaborators and I introduced **PrivLava**, the first solution for synthesizing relational data with foreign keys while ensuring differential privacy.
 
-In June 2021, I won [1st Place](https://drivendata.co/blog/differential-privacy-winners-sprint3/) in the NIST Differential Privacy Temporal Map Challenge, alongside my supervisor and collaborators. Our winning solution was a nuanced adaptation of our prior work, [PrivMRF](https://dl.acm.org/doi/abs/10.14778/3476249.3476272). We have open-sourced [the code](https://github.com/caicre/PrivMRF) of PrivMRF, hoping it to become a basic building block in privacy protection. Subsequently, in August 2021, I was honored with the Research Achievement Award from the School of Computing, NUS. In SIGMOD2023, my collaborators and I published the first solution for synthesizing relational data with foreign keys under differential privacy.
+I am deeply committed to advancing research in privacy protection, large language models, and graph neural networks. My work seeks to bridge theoretical innovation with practical applications, driving progress in both academia and industry.
 
-I'm still committed to pushing the boundaries of differential privacy and data synthesis. The prospect of making further significant contributions to the safeguarding of privacy fills me with a profound sense of anticipation and enthusiasm.
+**Research Interests**  
+- Differential Privacy  
+- Data Synthesis
+- Graphical Models  
+- Graph Neural Networks  
+- Large Language Models  
 
-**Research Interests**
-
-* Differential Privacy
-* Synthetic Data Generation
-* Private Data Analysis
-
-**Professional Service**
-
-* 2024 Reviewer, IEEE Transactions on Knowledge and Data Engineering
-* 2022 Reviewer, ACM Transactions on Database Systems
+**Professional Service**  
+- 2024 & 2025 Reviewer, IEEE Transactions on Knowledge and Data Engineering  
+- 2022 Reviewer, ACM Transactions on Database Systems  
